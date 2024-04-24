@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-!Desktop View[Desktop View](output/DesktopView.PNG)
-!Mobile View 1[Mobile View 1](output/MobileView1.PNG)
-!Mobile View 2[Mobile View 2](output/MobileView2.PNG)
+![Desktop View](output/DesktopView.PNG)
+![Mobile View 1](output/MobileView1.PNG)
+![Mobile View 2](output/MobileView2.PNG)
 
 ### Links
 
-- GitHub Repo URL: [GitHub Repo URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- GitHub Repo URL: [GitHub Repo URL](https://github.com/KrishnaPoddar1/SocialSection.git)
+- Live Site URL: [Live Site URL](https://krishnapoddar1.github.io/SocialSection/)
 
 ## My process
 
